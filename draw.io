@@ -1,4 +1,4 @@
-<mxfile modified="2024-07-14T17:29:46.726Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="woB2tCb7BRgld6q1E4uS" version="24.6.5" type="github">
+<mxfile modified="2024-07-14T17:31:14.636Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0O6mHBw88-k6GEsDnbbE" version="24.6.5" type="github">
   <diagram id="7gcUSTIZ7YSJ5vT40chW" name="Page-1">
     <mxGraphModel dx="1059" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Sf3bbbTF9P_FhT66CKM5-31" value="Front End&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Sf3bbbTF9P_FhT66CKM5-19" vertex="1">
-          <mxGeometry x="76.25" y="101.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="95" y="101.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sf3bbbTF9P_FhT66CKM5-32" value="Back End&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Sf3bbbTF9P_FhT66CKM5-19" vertex="1">
           <mxGeometry x="402.5" y="90" width="80" height="30" as="geometry" />
@@ -91,7 +91,7 @@
           <mxGeometry x="259" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PbUXfns7lF1K3b3Yfr4m-21" value="LARAVEL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="Sf3bbbTF9P_FhT66CKM5-19">
-          <mxGeometry x="76.25" y="130" width="80" height="30" as="geometry" />
+          <mxGeometry x="85" y="130" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PbUXfns7lF1K3b3Yfr4m-23" value="Next.js/Node.JS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="Sf3bbbTF9P_FhT66CKM5-19">
           <mxGeometry x="387.5" y="119.5" width="110" height="30" as="geometry" />
@@ -108,6 +108,10 @@
         <mxCell id="PbUXfns7lF1K3b3Yfr4m-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sf3bbbTF9P_FhT66CKM5-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="970" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="993" y="418" />
+              <mxPoint x="993" y="420" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Sf3bbbTF9P_FhT66CKM5-27" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" parent="1" vertex="1">
