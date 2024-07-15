@@ -1,6 +1,6 @@
-<mxfile modified="2024-07-15T05:13:36.326Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="TGAMLzocx3CpuFPdaUt7" version="24.6.5" type="github">
+<mxfile modified="2024-07-15T05:24:14.272Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Sj6gcxY8tE8c261_HTkd" version="24.6.5" type="github">
   <diagram id="7gcUSTIZ7YSJ5vT40chW" name="Page-1">
-    <mxGraphModel dx="1134" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,11 +47,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="281.25" y="225" as="targetPoint" />
             <mxPoint x="421.25" y="180" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w3u9WeW1InYmJ5YcBQ3x-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sf3bbbTF9P_FhT66CKM5-36">
-          <mxGeometry x="-0.2016" y="9" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sf3bbbTF9P_FhT66CKM5-31" value="Front End&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Sf3bbbTF9P_FhT66CKM5-19" vertex="1">
@@ -187,6 +182,9 @@
         </mxCell>
         <mxCell id="Sf3bbbTF9P_FhT66CKM5-45" value="ELB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="860" y="210" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mcLSZAYMWfW9EL00y0UP-1" value="" style="whiteSpace=wrap;html=1;strokeColor=none;gradientColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="790" height="700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
